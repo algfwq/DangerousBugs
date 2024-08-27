@@ -1,5 +1,0 @@
-hhh
-哈哈哈
-```python
-print("hello world")
-```
